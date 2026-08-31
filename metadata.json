@@ -1,0 +1,7 @@
+{
+  "name": "Marine Mind",
+  "description": "Maritime Training & Digital Learning Ecosystem — Stage 2 Courses & Course Discovery",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
